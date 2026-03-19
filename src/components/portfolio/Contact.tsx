@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { Mail, Phone, Linkedin, GraduationCap } from "lucide-react";
+import { Mail, Phone, GraduationCap } from "lucide-react";
+import linkedinIcon from "@/assets/linkedin.png";
 
 const Contact = () => (
   <section id="contact" className="py-20 hero-gradient">
