@@ -40,7 +40,7 @@ const Contact = () => (
         </div>
         <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/dr-hindeya-teame-9b2a5a375"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-gold text-accent-foreground px-8 py-3.5 rounded-lg font-semibold text-sm transition-all hover:brightness-110"
