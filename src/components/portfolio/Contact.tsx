@@ -46,7 +46,7 @@ const Contact = () => (
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-gold text-accent-foreground px-8 py-3.5 rounded-lg font-semibold text-sm transition-all hover:brightness-110"
           >
-            <Linkedin size={18} /> Connect on LinkedIn
+            <img src={linkedinIcon} alt="LinkedIn" className="w-5 h-5" /> Connect on LinkedIn
           </a>
         </div>
 
